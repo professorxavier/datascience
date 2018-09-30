@@ -1,0 +1,14 @@
+rodas,porta,janela,classe,passageiros
+4,4,sim,carro,4
+4,1,sim,carro,1
+4,1,sim,carro,2
+4,4,sim,carro,3
+4,4,sim,carro,4
+6,3,sim,carro,3
+4,4,sim,moto,2
+4,3,sim,carro,3
+4,2,sim,carro,2
+3,4,sim,carro,4
+4,4,sim,carro,4
+2,0,não,moto,1
+2,0,não,moto,2
